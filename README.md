@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tasalunke
-- 👀 I’m interested in ...c++,corejava,Servletjsp
--  I’m learing on servlet jsp , hibernate,springboot.
+- 👀 I’m interested in ...c++,core java,Android app development,Kotlin
 - 📫 Reach me via my mail id.
 <!---
 Tasalunke/Tasalunke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

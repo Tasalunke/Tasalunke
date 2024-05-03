@@ -1,4 +1,4 @@
-👋 Hi & नमस्ते (Namaste)🙏🏻 I’m @Tanmay Salunke
+👋 Hi & नमस्ते (Namaste)🙏🏻 I’m Tanmay Salunke
 
 🔭 I’m currently working on building Android applications
 
